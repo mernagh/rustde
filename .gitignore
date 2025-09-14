@@ -1,0 +1,9 @@
+# Rust build artifacts
+/target/
+
+# Data files (downloads, zips, parquet, etc.)
+/data/
+
+# OS / editor junk
+.DS_Store
+*.swp
